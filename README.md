@@ -1,6 +1,6 @@
 # Terminal Video Player
 
-A video player using ASCII characters to allow you watch videos on the command line.
+A video player using ASCII characters to allow you watching videos on the command line.
 
 ![router](./assets/oow.gif)
 
